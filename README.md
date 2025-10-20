@@ -34,12 +34,7 @@ A comprehensive AI chatbot application built with Streamlit, featuring Retrieval
    ```
 
 3. **Set up configuration**:
-   ```bash
-   # Copy the template and add your API keys
-   cp config_template.py config.py
-   ```
-   
-   Then edit `config.py` with your actual API keys:
+   Edit `config.py` and replace the placeholder values with your actual API keys:
    - **OpenAI API key** (required): Get from [OpenAI Platform](https://platform.openai.com/api-keys)
    - **Weather API key** (optional): Get from [OpenWeatherMap](https://openweathermap.org/api)
    - **Replicate API key** (optional): Get from [Replicate Account](https://replicate.com/account)

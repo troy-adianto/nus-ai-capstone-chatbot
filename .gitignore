@@ -128,8 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# API Keys and secrets
-config.py
+# API Keys and secrets  
 config_backup.py
 
 # Database files
