@@ -130,6 +130,7 @@ dmypy.json
 
 # API Keys and secrets
 config.py
+config_backup.py
 
 # Database files
 *.db
