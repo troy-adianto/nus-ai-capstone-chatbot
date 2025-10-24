@@ -1,8 +1,8 @@
 # Core AI and LLM dependencies - Python 3.9+ compatible
-openai==1.51.0
+openai==1.57.0
 langchain==0.3.7
 langchain-community==0.3.7
-langchain-core==0.3.15
+langchain-core==0.3.17
 langchain-openai==0.2.8
 langchain-chroma==0.1.4
 langchain-text-splitters==0.3.2

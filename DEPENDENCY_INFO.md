@@ -9,10 +9,10 @@
 All dependencies have been pinned to specific versions that are tested and compatible with Python 3.9+:
 
 ### Core AI & LLM Dependencies
-- `openai==1.51.0` - Latest OpenAI Python client
+- `openai==1.57.0` - Latest OpenAI Python client
 - `langchain==0.3.7` - LangChain framework
 - `langchain-community==0.3.7` - Community integrations
-- `langchain-core==0.3.15` - Core LangChain functionality
+- `langchain-core==0.3.17` - Core LangChain functionality
 - `langchain-openai==0.2.8` - OpenAI integration for LangChain
 - `langchain-chroma==0.1.4` - ChromaDB integration
 - `langchain-text-splitters==0.3.2` - Text splitting utilities
