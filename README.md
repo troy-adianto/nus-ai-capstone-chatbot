@@ -124,6 +124,6 @@ This project is part of NUS AI Capstone Project Submission.
 
 ### Python Version Compatibility
 
-- **Supported**: Python 3.8 - 3.13
-- **Recommended**: Python 3.9 or higher for optimal performance
+- **Supported**: Python 3.10 - 3.13
+- **Recommended**: Python 3.10 or higher for optimal performance
 - All dependencies are compatible with the latest Python versions
